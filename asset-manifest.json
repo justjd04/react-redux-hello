@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-redux-hello/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-redux-hello/static/js/main.8e5101b3.chunk.js",
+    "main.js.map": "/react-redux-hello/static/js/main.8e5101b3.chunk.js.map",
+    "runtime-main.js": "/react-redux-hello/static/js/runtime-main.fdd2a032.js",
+    "runtime-main.js.map": "/react-redux-hello/static/js/runtime-main.fdd2a032.js.map",
+    "static/js/2.79c827ad.chunk.js": "/react-redux-hello/static/js/2.79c827ad.chunk.js",
+    "static/js/2.79c827ad.chunk.js.map": "/react-redux-hello/static/js/2.79c827ad.chunk.js.map",
+    "index.html": "/react-redux-hello/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-redux-hello/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.79c827ad.chunk.js.LICENSE.txt": "/react-redux-hello/static/js/2.79c827ad.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-redux-hello/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdd2a032.js",
+    "static/js/2.79c827ad.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.8e5101b3.chunk.js"
+  ]
+}
