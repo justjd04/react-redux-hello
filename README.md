@@ -2,16 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Summary
-⋅⋅* Unordered sub-list. 
-
-  *Redux is a predictable state container for JavaScript apps.
-  *The createStore factory function from Redux is used to create a Redux STORE.
-  *The Reducer is the only mandatory argument passed into createStore()
-  *A REDUCER is just a function. A function that takes in two parameters. The first is the STATE of the app, and the other is an ACTION.
-  *A Reducer always returns the new stateof your application.
-  *The Initial State of your application, initialState is the second argument passed into the createStore function call.
-  *Store.getState() will return the current state of your application. Where Store is a valid Redux STORE.
+## Summary
+ 
+  * Redux is a predictable state container for JavaScript apps.
+  * The createStore factory function from Redux is used to create a Redux STORE.
+  * The Reducer is the only mandatory argument passed into createStore()
+  * A REDUCER is just a function. A function that takes in two parameters. The first is the STATE of the app, and the other is an ACTION.
+  * A Reducer always returns the new stateof your application.
+  * The Initial State of your application, initialState is the second argument passed into the createStore function call.
+  * Store.getState() will return the current state of your application. Where Store is a valid Redux STORE.
 
 ## Available Scripts
 
