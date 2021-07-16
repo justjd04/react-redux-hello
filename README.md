@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ##Summary
+⋅⋅* Unordered sub-list. 
 
   *Redux is a predictable state container for JavaScript apps.
   *The createStore factory function from Redux is used to create a Redux STORE.
